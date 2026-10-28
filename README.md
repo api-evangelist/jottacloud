@@ -64,5 +64,26 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Jottacloud is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://jottacloud.com/
+Jottacloud is a Norwegian cloud storage and backup service founded in 2008, offering secure, renewable‑energy‑powered storage for personal and business users. It provides web, desktop and mobile apps, automatic device backup, AI‑powered photo search, and compliance with European privacy laws. Over 1.9 million users trust Jottacloud for its reliability, encryption, and transparent pricing plans.
+
+**Areas:** Company · Cloud Storage · Backup · Norwegian · Renewable Energy
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://jottacloud.com/)
+- [Documentation](https://docs.jottacloud.com/)
+- [Getting started](https://docs.jottacloud.com/en/articles/2050941-desktop-easy-setup-disable-sync-and-move-sync-folder)
+- [Pricing](https://jottacloud.com/en/pricing)
+- [Sign up](https://jottacloud.com/signup/free?lang=en)
+- [Support](https://jottacloud.com/en/contact)
+- [Blog](https://jottacloud.com/en/blog)
+- [Terms of service](https://jottacloud.com/en/terms-conditions)
+- [Privacy policy](https://jottacloud.com/en/privacy)
+
+**APIs profiled:** 2
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/jottacloud/](https://apis.io/providers/jottacloud/).
